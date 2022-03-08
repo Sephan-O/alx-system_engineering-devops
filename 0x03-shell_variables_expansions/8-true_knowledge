@@ -1,0 +1,4 @@
+#!/bin/bash
+a=128
+sum=$(( $a + $TRUEKNOWLEDGE ))
+echo $sum
